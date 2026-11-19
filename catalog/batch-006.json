@@ -1,0 +1,10 @@
+{
+  "batchId": "batch-006",
+  "generatedAt": "2026-11-20",
+  "items": [
+    {"id": "wall-001", "name": "生成りの壁紙", "category": "壁紙", "price": 2800, "rarity": "ノーマル", "tags": ["無地", "生成り"], "slot": "壁面", "displaySize": "L", "drawOrder": 2, "description": "生成りの無地風壁紙。何にでも合う。"},
+    {"id": "wall-002", "name": "水色ストライプの壁紙", "category": "壁紙", "price": 3000, "rarity": "ノーマル", "tags": ["ストライプ", "水色"], "slot": "壁面", "displaySize": "L", "drawOrder": 2, "description": "淡い水色の細いストライプ。涼しげ。"},
+    {"id": "wall-003", "name": "小花柄の壁紙", "category": "壁紙", "price": 3400, "rarity": "レア", "tags": ["花柄", "クリーム"], "slot": "壁面", "displaySize": "L", "drawOrder": 2, "description": "小さな花が散る壁紙。少しだけ華やか。"},
+    {"id": "wall-004", "name": "緑チェックの壁紙", "category": "壁紙", "price": 3200, "rarity": "ノーマル", "tags": ["チェック", "緑"], "slot": "壁面", "displaySize": "L", "drawOrder": 2, "description": "鼠色がかった緑のギンガムチェック。"}
+  ]
+}
