@@ -1,0 +1,10 @@
+{
+  "batchId": "batch-012",
+  "generatedAt": "2026-11-20",
+  "items": [
+    {"id": "kagu-009", "name": "背の高い本棚", "category": "家具", "price": 9800, "rarity": "レア", "tags": ["本棚", "木製", "茶色", "本"], "slot": "壁際", "displaySize": "L", "drawOrder": 10, "description": "天井近くまである本棚。本がぎっしり。"},
+    {"id": "kagu-010", "name": "デスクワゴン", "category": "家具", "price": 6400, "rarity": "ノーマル", "tags": ["収納", "キャスター", "グレー"], "slot": "壁際", "displaySize": "M", "drawOrder": 15, "description": "キャスター付き三段ワゴン。机まわりの細々用。"},
+    {"id": "kagu-011", "name": "格子の衝立", "category": "家具", "price": 7800, "rarity": "ノーマル", "tags": ["和", "仕切り", "木製"], "slot": "部屋の角", "displaySize": "L", "drawOrder": 10, "description": "格子と和紙の二連衝立。視線をゆるく切る。"},
+    {"id": "kagu-012", "name": "壁掛け棚板", "category": "家具", "price": 2800, "rarity": "ノーマル", "tags": ["棚", "壁", "木製"], "slot": "壁面", "displaySize": "M", "drawOrder": 35, "description": "黒い金具の壁掛け棚。小物を置く場所が増える。"}
+  ]
+}
