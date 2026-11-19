@@ -1,0 +1,10 @@
+{
+  "batchId": "batch-002",
+  "generatedAt": "2026-11-20",
+  "items": [
+    {"id": "komono-005", "name": "クリーム色の目覚まし時計", "category": "小物", "price": 450, "rarity": "ノーマル", "tags": ["時計", "朝", "クリーム"], "slot": "ベッド横", "displaySize": "S", "drawOrder": 30, "description": "ツインベルの目覚まし時計。朝が弱い人向け、効果は保証しない。"},
+    {"id": "komono-006", "name": "急須と湯呑みのセット", "category": "小物", "price": 680, "rarity": "レア", "tags": ["お茶", "和", "茶色"], "slot": "机の上", "displaySize": "S", "drawOrder": 30, "description": "常滑風の急須と湯呑み。読書のお供に。"},
+    {"id": "komono-007", "name": "丸い座布団クッション", "category": "小物", "price": 750, "rarity": "ノーマル", "tags": ["クッション", "緑", "くつろぎ"], "slot": "床中央", "displaySize": "M", "drawOrder": 15, "description": "鼠色がかった緑の丸クッション。床でだらだらする用。"},
+    {"id": "komono-008", "name": "戦車の模型", "category": "小物", "price": 980, "rarity": "レア", "tags": ["戦車", "模型", "趣味"], "slot": "棚の上", "displaySize": "M", "drawOrder": 30, "description": "木の台座付きの戦車模型。棚の主役。"}
+  ]
+}
