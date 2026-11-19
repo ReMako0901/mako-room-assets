@@ -1,0 +1,10 @@
+{
+  "batchId": "batch-016",
+  "generatedAt": "2026-11-20",
+  "items": [
+    {"id": "kagu-013", "name": "木の折りたたみ椅子", "category": "家具", "price": 3900, "rarity": "ノーマル", "tags": ["椅子", "木製", "折りたたみ"], "slot": "部屋の角", "displaySize": "M", "drawOrder": 15, "description": "来客用の折りたたみ椅子。普段は畳んで隅に。"},
+    {"id": "kagu-014", "name": "三段の衣装ケース", "category": "家具", "price": 5200, "rarity": "ノーマル", "tags": ["収納", "衣類", "半透明"], "slot": "壁際", "displaySize": "M", "drawOrder": 12, "description": "半透明の引き出し三段。中身がうっすら見える。"},
+    {"id": "kagu-015", "name": "グレーの座椅子", "category": "家具", "price": 6800, "rarity": "ノーマル", "tags": ["座椅子", "グレー", "床"], "slot": "床中央", "displaySize": "M", "drawOrder": 15, "description": "床に座るための座椅子。だらだら読書用。"},
+    {"id": "wall-009", "name": "星屑の壁紙", "category": "壁紙", "price": 3400, "rarity": "レア", "tags": ["星", "金", "生成り"], "slot": "壁面", "displaySize": "L", "drawOrder": 2, "description": "生成りに小さな金の星。夜に似合う。"}
+  ]
+}
