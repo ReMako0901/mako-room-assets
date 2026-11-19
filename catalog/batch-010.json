@@ -1,0 +1,10 @@
+{
+  "batchId": "batch-010",
+  "generatedAt": "2026-11-20",
+  "items": [
+    {"id": "floor-005", "name": "紺色の柄ラグ", "category": "床・カーペット", "price": 2000, "rarity": "ノーマル", "tags": ["ラグ", "紺", "柄"], "slot": "床中央", "displaySize": "L", "drawOrder": 5, "description": "紺地に生成りの小紋柄。落ち着いた印象。"},
+    {"id": "floor-006", "name": "ベージュの無地ラグ", "category": "床・カーペット", "price": 1500, "rarity": "ノーマル", "tags": ["ラグ", "無地", "ベージュ"], "slot": "床中央", "displaySize": "L", "drawOrder": 5, "description": "無地のベージュラグ。無難で合わせやすい。"},
+    {"id": "floor-007", "name": "ペルシャ風ラグ", "category": "床・カーペット", "price": 2400, "rarity": "レア", "tags": ["ラグ", "赤", "柄"], "slot": "床中央", "displaySize": "L", "drawOrder": 5, "description": "くすんだ赤のペルシャ風。少し大人っぽい。"},
+    {"id": "floor-008", "name": "グレーのシャギーラグ", "category": "床・カーペット", "price": 1900, "rarity": "ノーマル", "tags": ["ラグ", "グレー", "ふわふわ"], "slot": "床中央", "displaySize": "L", "drawOrder": 5, "description": "毛足の長いグレーのラグ。冬向き。"}
+  ]
+}
