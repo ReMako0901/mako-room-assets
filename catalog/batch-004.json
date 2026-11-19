@@ -1,0 +1,10 @@
+{
+  "batchId": "batch-004",
+  "generatedAt": "2026-11-20",
+  "items": [
+    {"id": "kagu-001", "name": "小さな本棚", "category": "家具", "price": 3800, "rarity": "ノーマル", "tags": ["本", "木製", "収納"], "slot": "壁際", "displaySize": "L", "drawOrder": 10, "description": "三段の木の本棚。本が少し入っている。"},
+    {"id": "kagu-002", "name": "丸いサイドテーブル", "category": "家具", "price": 2400, "rarity": "ノーマル", "tags": ["木製", "テーブル"], "slot": "ベッド横", "displaySize": "M", "drawOrder": 20, "description": "引き出し付きの丸いサイドテーブル。ベッドの脇に。"},
+    {"id": "kagu-003", "name": "姿見ミラー", "category": "家具", "price": 4500, "rarity": "レア", "tags": ["鏡", "木製"], "slot": "壁際", "displaySize": "L", "drawOrder": 10, "description": "細い木枠の姿見。出かける前の確認用。"},
+    {"id": "kagu-004", "name": "木のハンガーラック", "category": "家具", "price": 3200, "rarity": "ノーマル", "tags": ["木製", "衣類", "収納"], "slot": "部屋の角", "displaySize": "L", "drawOrder": 10, "description": "ハンガー2本付きの木製ラック。制服を掛ける場所。"}
+  ]
+}
