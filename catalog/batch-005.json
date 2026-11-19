@@ -1,0 +1,10 @@
+{
+  "batchId": "batch-005",
+  "generatedAt": "2026-11-20",
+  "items": [
+    {"id": "floor-001", "name": "編み目の丸ラグ", "category": "床・カーペット", "price": 1200, "rarity": "ノーマル", "tags": ["ラグ", "生成り", "丸"], "slot": "床中央", "displaySize": "L", "drawOrder": 5, "description": "編み目の見える丸いラグ。素足に優しい。"},
+    {"id": "floor-002", "name": "緑のチェックラグ", "category": "床・カーペット", "price": 1800, "rarity": "ノーマル", "tags": ["ラグ", "チェック", "緑"], "slot": "床中央", "displaySize": "L", "drawOrder": 5, "description": "鼠色がかった緑と生成りのチェック柄ラグ。"},
+    {"id": "floor-003", "name": "小花柄のマット", "category": "床・カーペット", "price": 700, "rarity": "ノーマル", "tags": ["マット", "花柄"], "slot": "床中央", "displaySize": "M", "drawOrder": 5, "description": "小花柄の小さなマット。"},
+    {"id": "floor-004", "name": "畳風マット", "category": "床・カーペット", "price": 2200, "rarity": "レア", "tags": ["畳", "和"], "slot": "床中央", "displaySize": "L", "drawOrder": 5, "description": "緑の縁付き畳風マット。和の落ち着き。"}
+  ]
+}

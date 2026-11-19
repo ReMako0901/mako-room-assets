@@ -3,3 +3,7 @@ items/*.webp filter=lfs diff=lfs merge=lfs -text
 rooms/*.webp filter=lfs diff=lfs merge=lfs -text
 wallpapers/*.webp filter=lfs diff=lfs merge=lfs -text
 floors/*.webp filter=lfs diff=lfs merge=lfs -text
+items/*.png filter=lfs diff=lfs merge=lfs -text
+floors/*.png filter=lfs diff=lfs merge=lfs -text
+wallpapers/*.png filter=lfs diff=lfs merge=lfs -text
+rooms/*.png filter=lfs diff=lfs merge=lfs -text
