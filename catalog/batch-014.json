@@ -1,0 +1,10 @@
+{
+  "batchId": "batch-014",
+  "generatedAt": "2026-11-20",
+  "items": [
+    {"id": "komono-025", "name": "傘立てと紺の傘", "category": "小物", "price": 640, "rarity": "ノーマル", "tags": ["傘", "玄関", "紺"], "slot": "部屋の角", "displaySize": "M", "drawOrder": 20, "description": "細身の傘立てと紺色の傘。雨の日の帰り道用。"},
+    {"id": "komono-026", "name": "金魚鉢", "category": "小物", "price": 880, "rarity": "レア", "tags": ["金魚", "ガラス", "水"], "slot": "棚の上", "displaySize": "M", "drawOrder": 30, "description": "丸い金魚鉢。金魚が一匹、水草つき。眺める用。"},
+    {"id": "komono-027", "name": "白い体重計", "category": "小物", "price": 720, "rarity": "ノーマル", "tags": ["健康", "白"], "slot": "壁際", "displaySize": "M", "drawOrder": 15, "description": "薄い白の体重計。表示は空欄。現実は見ない。"},
+    {"id": "komono-028", "name": "一輪挿し", "category": "小物", "price": 480, "rarity": "ノーマル", "tags": ["花", "陶器", "青"], "slot": "机の上", "displaySize": "S", "drawOrder": 30, "description": "青灰色の花瓶に白い花一輪。"}
+  ]
+}
