@@ -1,0 +1,10 @@
+{
+  "batchId": "batch-009",
+  "generatedAt": "2026-11-20",
+  "items": [
+    {"id": "komono-017", "name": "畳んだブランケット", "category": "小物", "price": 840, "rarity": "ノーマル", "tags": ["布", "睡眠", "クリーム"], "slot": "ベッド横", "displaySize": "M", "drawOrder": 20, "description": "生成りの柔らかいブランケット。昼寝用。"},
+    {"id": "komono-018", "name": "白い電気ケトル", "category": "小物", "price": 960, "rarity": "レア", "tags": ["家電", "白", "飲み物"], "slot": "壁際", "displaySize": "M", "drawOrder": 20, "description": "マットな白の電気ケトル。お茶とコーヒーの要。"},
+    {"id": "komono-019", "name": "木のフォトフレーム", "category": "小物", "price": 290, "rarity": "ノーマル", "tags": ["木製", "写真"], "slot": "机の上", "displaySize": "S", "drawOrder": 30, "description": "小さな木の写真立て。中身はこれから。"},
+    {"id": "komono-020", "name": "青いペン立て", "category": "小物", "price": 210, "rarity": "ノーマル", "tags": ["文具", "青", "机"], "slot": "机の上", "displaySize": "S", "drawOrder": 30, "description": "陶器のペン立て。ペン3本と鉛筆付き。"}
+  ]
+}
