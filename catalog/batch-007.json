@@ -1,0 +1,10 @@
+{
+  "batchId": "batch-007",
+  "generatedAt": "2026-11-20",
+  "items": [
+    {"id": "komono-013", "name": "リードディフューザー", "category": "小物", "price": 720, "rarity": "ノーマル", "tags": ["香り", "ガラス"], "slot": "棚の上", "displaySize": "S", "drawOrder": 30, "description": "木のスティックのディフューザー。香りは控えめ。"},
+    {"id": "komono-014", "name": "木枠の掛け時計", "category": "小物", "price": 890, "rarity": "レア", "tags": ["時計", "木製", "壁"], "slot": "壁面", "displaySize": "M", "drawOrder": 40, "description": "木枠の丸い掛け時計。数字なしの静かな文字盤。"},
+    {"id": "komono-015", "name": "木のティッシュケース", "category": "小物", "price": 380, "rarity": "ノーマル", "tags": ["木製", "日用品"], "slot": "机の上", "displaySize": "S", "drawOrder": 30, "description": "木製のティッシュボックスカバー。"},
+    {"id": "komono-016", "name": "蓋付きの小さなゴミ箱", "category": "小物", "price": 460, "rarity": "ノーマル", "tags": ["日用品", "グレー"], "slot": "部屋の角", "displaySize": "M", "drawOrder": 20, "description": "木の蓋が付いた小さいゴミ箱。部屋の隅に。"}
+  ]
+}
