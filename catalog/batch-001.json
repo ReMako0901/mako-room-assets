@@ -1,0 +1,10 @@
+{
+  "batchId": "batch-001",
+  "generatedAt": "2026-11-20",
+  "items": [
+    {"id": "komono-001", "name": "苺のショートケーキ", "category": "小物", "price": 380, "rarity": "レア", "tags": ["甘いもの", "ケーキ", "赤"], "slot": "机の上", "displaySize": "S", "drawOrder": 30, "description": "苺がのったショートケーキ一切れ。麻子の好物。"},
+    {"id": "komono-002", "name": "積み重ねた文庫本", "category": "小物", "price": 240, "rarity": "ノーマル", "tags": ["本", "読書"], "slot": "机の上", "displaySize": "S", "drawOrder": 30, "description": "読みかけの本が三冊。静かな時間のお供。"},
+    {"id": "komono-003", "name": "白いマグカップ", "category": "小物", "price": 180, "rarity": "ノーマル", "tags": ["飲み物", "シンプル", "白"], "slot": "机の上", "displaySize": "S", "drawOrder": 30, "description": "無地の白いマグカップ。コーヒー入り。"},
+    {"id": "komono-004", "name": "小さな観葉植物", "category": "小物", "price": 520, "rarity": "ノーマル", "tags": ["植物", "緑"], "slot": "部屋の角", "displaySize": "M", "drawOrder": 20, "description": "素焼き鉢の小さな観葉植物。部屋の隅に緑を少し。"}
+  ]
+}
