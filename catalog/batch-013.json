@@ -1,0 +1,10 @@
+{
+  "batchId": "batch-013",
+  "generatedAt": "2026-11-20",
+  "items": [
+    {"id": "komono-021", "name": "コーヒードリッパーセット", "category": "小物", "price": 780, "rarity": "レア", "tags": ["コーヒー", "ガラス", "飲み物"], "slot": "棚の上", "displaySize": "S", "drawOrder": 30, "description": "陶器のドリッパーとガラスサーバー。休日の朝用。"},
+    {"id": "komono-022", "name": "水色の抱き枕", "category": "小物", "price": 980, "rarity": "レア", "tags": ["睡眠", "水色", "枕"], "slot": "ベッド横", "displaySize": "L", "drawOrder": 20, "description": "長い円筒の抱き枕。寝付きが良くなる、気がする。"},
+    {"id": "komono-023", "name": "木の裁縫箱", "category": "小物", "price": 560, "rarity": "ノーマル", "tags": ["裁縫", "木製", "手芸"], "slot": "棚の上", "displaySize": "S", "drawOrder": 30, "description": "糸と針山の入った裁縫箱。ボタン付け用。"},
+    {"id": "komono-024", "name": "グレーの水筒", "category": "小物", "price": 340, "rarity": "ノーマル", "tags": ["水筒", "グレー", "飲み物"], "slot": "机の上", "displaySize": "S", "drawOrder": 30, "description": "マットグレーの保温ボトル。机の常備品。"}
+  ]
+}
