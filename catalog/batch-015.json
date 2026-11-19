@@ -1,0 +1,10 @@
+{
+  "batchId": "batch-015",
+  "generatedAt": "2026-11-20",
+  "items": [
+    {"id": "komono-029", "name": "毛糸玉の籠", "category": "小物", "price": 440, "rarity": "ノーマル", "tags": ["編み物", "手芸", "籠"], "slot": "棚の上", "displaySize": "S", "drawOrder": 30, "description": "毛糸3玉と編み針の籠。編みかけは永遠に途中。"},
+    {"id": "komono-030", "name": "木のオルゴール", "category": "小物", "price": 920, "rarity": "レア", "tags": ["オルゴール", "木製", "音楽", "歯車"], "slot": "机の上", "displaySize": "S", "drawOrder": 30, "description": "真鍮のシリンダーが見えるオルゴール。仕組みが見えるのがいい。"},
+    {"id": "floor-009", "name": "水色の丸ラグ", "category": "床・カーペット", "price": 1100, "rarity": "ノーマル", "tags": ["ラグ", "丸", "水色"], "slot": "床中央", "displaySize": "M", "drawOrder": 5, "description": "淡い水色の丸ラグ。縁に細かいレース柄。"},
+    {"id": "floor-010", "name": "麻のラグ", "category": "床・カーペット", "price": 1600, "rarity": "ノーマル", "tags": ["ラグ", "麻", "生成り"], "slot": "床中央", "displaySize": "L", "drawOrder": 5, "description": "粗い織りの麻ラグ。さらっとした足触り。"}
+  ]
+}
