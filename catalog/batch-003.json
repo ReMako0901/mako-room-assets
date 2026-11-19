@@ -1,0 +1,10 @@
+{
+  "batchId": "batch-003",
+  "generatedAt": "2026-11-20",
+  "items": [
+    {"id": "komono-009", "name": "ニットカバーの湯たんぽ", "category": "小物", "price": 620, "rarity": "ノーマル", "tags": ["睡眠", "冬", "赤"], "slot": "ベッド横", "displaySize": "M", "drawOrder": 20, "description": "赤いニットカバー付きの湯たんぽ。布団に入れる用。"},
+    {"id": "komono-010", "name": "小さな加湿器", "category": "小物", "price": 880, "rarity": "レア", "tags": ["家電", "白", "冬"], "slot": "壁際", "displaySize": "M", "drawOrder": 20, "description": "丸い小型の加湿器。乾燥する夜に。"},
+    {"id": "komono-011", "name": "クッキー缶", "category": "小物", "price": 540, "rarity": "ノーマル", "tags": ["甘いもの", "お菓子", "青"], "slot": "棚の上", "displaySize": "S", "drawOrder": 30, "description": "くすんだ青の丸いクッキー缶。中身は内緒。"},
+    {"id": "komono-012", "name": "グレーのスリッパ", "category": "小物", "price": 320, "rarity": "ノーマル", "tags": ["日用品", "グレー"], "slot": "ベッド横", "displaySize": "S", "drawOrder": 15, "description": "無地のグレーの室内スリッパ。ベッドの脇に揃えて置く。"}
+  ]
+}
