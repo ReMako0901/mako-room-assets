@@ -1,0 +1,10 @@
+{
+  "batchId": "batch-011",
+  "generatedAt": "2026-11-20",
+  "items": [
+    {"id": "wall-005", "name": "グレードットの壁紙", "category": "壁紙", "price": 2900, "rarity": "ノーマル", "tags": ["ドット", "グレー", "白"], "slot": "壁面", "displaySize": "L", "drawOrder": 2, "description": "小さなグレーのドット。静かで控えめ。"},
+    {"id": "wall-006", "name": "木目の壁紙", "category": "壁紙", "price": 3300, "rarity": "ノーマル", "tags": ["木目", "板壁"], "slot": "壁面", "displaySize": "L", "drawOrder": 2, "description": "明るい板壁風の木目。山小屋っぽさ。"},
+    {"id": "wall-007", "name": "淡ピンクの壁紙", "category": "壁紙", "price": 2700, "rarity": "ノーマル", "tags": ["無地", "ピンク"], "slot": "壁面", "displaySize": "L", "drawOrder": 2, "description": "くすんだ淡いピンクの無地。甘さは控えめ。"},
+    {"id": "wall-008", "name": "水色ダイヤの壁紙", "category": "壁紙", "price": 3100, "rarity": "ノーマル", "tags": ["ダイヤ柄", "水色"], "slot": "壁面", "displaySize": "L", "drawOrder": 2, "description": "水色と生成りのダイヤ柄。少しだけ賑やか。"}
+  ]
+}
