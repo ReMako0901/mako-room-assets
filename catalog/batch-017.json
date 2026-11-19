@@ -1,0 +1,8 @@
+{
+  "batchId": "batch-017",
+  "generatedAt": "2026-11-20",
+  "items": [
+    {"id": "wall-010", "name": "若葉の壁紙", "category": "壁紙", "price": 3000, "rarity": "ノーマル", "tags": ["葉", "緑", "植物"], "slot": "壁面", "displaySize": "L", "drawOrder": 2, "description": "淡い緑に小さな葉の枝。静かで爽やか。"},
+    {"id": "room-001", "name": "畳の和室", "category": "追加部屋", "price": 10000, "rarity": "レア", "tags": ["和室", "畳", "障子"], "slot": "部屋全体", "displaySize": "L", "drawOrder": 1, "description": "畳と障子の和室。追加部屋の価格は購入数で上がる累進制（1部屋目10,000G）。"}
+  ]
+}
