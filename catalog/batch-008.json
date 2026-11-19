@@ -1,0 +1,10 @@
+{
+  "batchId": "batch-008",
+  "generatedAt": "2026-11-20",
+  "items": [
+    {"id": "kagu-005", "name": "木のローテーブル", "category": "家具", "price": 5600, "rarity": "ノーマル", "tags": ["木製", "テーブル"], "slot": "床中央", "displaySize": "L", "drawOrder": 12, "description": "低めの木のテーブル。床座りの中心。"},
+    {"id": "kagu-006", "name": "緑の一人掛けチェア", "category": "家具", "price": 8900, "rarity": "レア", "tags": ["椅子", "緑", "くつろぎ"], "slot": "部屋の角", "displaySize": "L", "drawOrder": 10, "description": "鼠色がかった緑の布張り一人掛け。読書用。"},
+    {"id": "kagu-007", "name": "収納スツール", "category": "家具", "price": 3400, "rarity": "ノーマル", "tags": ["収納", "椅子", "木製"], "slot": "壁際", "displaySize": "M", "drawOrder": 15, "description": "座れてしまえる箱型スツール。"},
+    {"id": "kagu-008", "name": "三段チェスト", "category": "家具", "price": 7200, "rarity": "ノーマル", "tags": ["収納", "木製", "茶色"], "slot": "壁際", "displaySize": "L", "drawOrder": 10, "description": "ウォールナット色の三段チェスト。"}
+  ]
+}
